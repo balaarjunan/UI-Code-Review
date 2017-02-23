@@ -6,7 +6,7 @@ When it comes to code quality tools, the options are very less for javascript, w
 Here are few guidelines to help the review process more efficient. The review is themed around the concept of PURE.
 
 
-PERFORMANT:
+PERFORMANT
 
 1. While dealing with dynamically rendered elements, check for the element before applying styles.
 2. Missing NULL checks, also try not to complicate null checks. [e.g if(variable == null), instead use if(variable)]
