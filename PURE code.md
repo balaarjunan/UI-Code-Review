@@ -21,7 +21,7 @@ Here are few guidelines to help the review process more efficient. The review is
 
 1. Is the code Unit-testable
 2. Could it be Unit tested with minimal mock data
-3. Does it follow SOLID principle [https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)]
+3. Follows SOLID principle [https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)]
 
 #READABLE
 
@@ -33,7 +33,9 @@ Here are few guidelines to help the review process more efficient. The review is
 6. Emphasis semi-colon;
 7. Loops should always have parenthesis
 
-#EXTENDABLE
+#EXTENSIBLE
 
 1. No arbitrary constants. [e.g height = height + 30 +'px', use a constants instead var heightAdjustment = 30;]
-2. Are the methods extendable in future, be cautious about over-engineering
+2. Are the methods extensible in future, be cautious about over-engineering
+3. Follows 3-tier architecture
+
