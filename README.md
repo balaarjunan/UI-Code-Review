@@ -3,7 +3,7 @@ User Interface Code Review guidelines, suggestions and best practices
 
 Javascript is a dynamically typed language which leaves code reviewers with bigger responsibilities. When it comes to code quality tools, the options are very less for javascript, which makes the situation worse. 
 
-Here are few guidelines to help the review process more efficient.
+Here are few guidelines to help the review process more efficient. The review is themed around the concept of PURE.
 
 
 Performant
