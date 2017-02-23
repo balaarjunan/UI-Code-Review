@@ -1,4 +1,4 @@
-# UI-Code-Review
+# PURE Concept: UI Code Review
 User Interface Code Review guidelines, suggestions and best practices
 
 Javascript is a dynamically typed language which leaves code reviewers with bigger responsibilities. 
