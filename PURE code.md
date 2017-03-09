@@ -35,7 +35,7 @@ Here are few guidelines to help the review process more efficient. The review is
 
 #EXTENSIBLE
 
-1. No arbitrary constants. [e.g height = height + 30 +'px', use a constants instead var heightAdjustment = 30;]
+1. No arbitrary constants. [e.g height = height + 30 +'px', use a variable instead var heightAdjustment = 30;]
 2. Are the methods extensible in future, be cautious about over-engineering
 3. Follows 3-tier architecture
 
